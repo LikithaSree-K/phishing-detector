@@ -1,4 +1,5 @@
-#Phishing Detector is a simple web application developed to detect whether a URL is legitimate or phishing using Machine Learning. The main goal of this project is to help users identify malicious websites and improve online security.
+#phishind Detector 
+Phishing Detector is a simple web application developed to detect whether a URL is legitimate or phishing using Machine Learning. The main goal of this project is to help users identify malicious websites and improve online security.
 
 The application provides a user-friendly interface where users can enter a website URL. The entered URL is processed by a trained machine learning model, which analyzes its features and predicts whether the URL is safe or a phishing website. The prediction result is displayed instantly.
 
